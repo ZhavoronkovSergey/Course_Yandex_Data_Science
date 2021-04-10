@@ -3,7 +3,7 @@
 ![alt text](https://yandex.ru/images/search?from=tabbar&text=такси&p=1&pos=67&rpt=simage&img_url=https%3A%2F%2Fi1.wp.com%2Fkitle.net%2Fwp-content%2Fuploads%2F2020%2F01%2Ftaxi_city_yellow_street_nyc_usa_car_transportation-702424.jpg%3Fw%3D1200%26ssl%3D1)
 
 
-## Задача проекта
+## Задача 
 
 Компания собрала исторические данные о заказах такси в аэропортах. 
 Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. 
